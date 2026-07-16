@@ -1,1 +1,1 @@
-HOLA, para utilizar este codigo de prueba deberás tener instalado XAMPP y activar el Apache y MySQL en el mismo XAMPP, al dar en admin en MySQL podrás importar el archivo .sql y obtendrás la base de datos necesaria para usar el código.
+HOLA, para utilizar este codigo de prueba deberás tener instalado XAMPP y activar el Apache y MySQL en el mismo, al dar en admin en MySQL podrás importar el archivo .sql y obtendrás la base de datos necesaria para usar el código.
